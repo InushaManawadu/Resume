@@ -60,7 +60,7 @@ export default{
             tag: "Java",
             image: "",
             title: "Project 1",
-            description: "This is my first project using Java",
+            description: "This is my first project using Python",
             links: [
                 { link: "https://www.google.com", icon: <GitHubIcon/>},
                 { link: "https://www.google.com", icon: <GitHubIcon/>},
